@@ -9,6 +9,6 @@
 public class ProChal3
 {
     public static void main (String[] args){
-        System.out.print("Jordan Byrne\nComputer Science\nHave a twin sister");
+        System.out.print("Jordan Byrne\nComputer Science\nI enjoy playing soccer and the piano.");
     }
 }
