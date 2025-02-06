@@ -11,7 +11,6 @@ public class Imprecision
     public static void main (String[] args){
         double x = 12345.6789e200;
         double y,z;
-        
         y=1/x;
         z=x*y;
         
