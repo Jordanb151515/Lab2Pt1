@@ -1,6 +1,6 @@
 
 /**
- * Program to show imprecision with large numbers.
+ * Program to show imprecision with large numbers. Part of Lab2 Part1.
  *
  * @author Jordan Byrne
  * @version v.10
